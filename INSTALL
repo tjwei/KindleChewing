@@ -1,0 +1,11 @@
+# To install the input method
+mntroot rw
+tar -C kindle_root_dir -cf - . | tar -C / -xvf -
+mntroot ro
+
+# To run the input method
+/mnt/us/chewing/ime &
+/etc/init.d/framework restart
+
+# Press alt-shift-space to use chewing input method 
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/Kindlet-1.2.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/framework-impl.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/booklet.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/KindletImplementation-1.2.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/utilities.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/cd.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/icu4j.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/jdbm.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/Journal-update.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/json.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/KindleDeviceServicesAbstraction-1.0.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/KindleDeviceServicesTN-1.0.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/KindleGUIAbstraction-1.0.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/KindleGUITN-1.0.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/KindletBookletDRM-1.0.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/kxml2.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/MobiCore-impl.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/MobipocketCoreReader.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/PDFReader-impl.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/portability.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/portability-impl.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/ReaderSDK.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/SearchSDK.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindleroot/opt/amazon/ebook/lib/xyml.jar"/>
+	<classpathentry kind="lib" path="/scratchbox/users/tjw/home/tjw/kindle/ebook2/fapi2/framework-api.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
